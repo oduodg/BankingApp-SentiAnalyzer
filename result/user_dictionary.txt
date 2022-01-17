@@ -1,0 +1,161 @@
+﻿<-----------> 첫 줄은 제목 및 헤더 작성을 위해 인식하지 않습니다.
+존잼	NNP
+ㄹㅇ	MAG
+안	MAG
+어프	NNP
+계좌이체	NNG
+계좌번호	NNG
+계좌 이체	NNG
+계좌 번호	NNG
+씨티모바일	NNP
+씨티 모바일	NNP
+인증번호	NNG
+인증 번호	NNG
+시티	NNP
+이	JKS
+본인인증	NNG
+본인 인증	NNG
+본인확인	NNG
+본인 확인	NNG
+공동인증서	NNP
+공동 인증서	NNP
+스마트 간편결재	NNP
+스마트간편결재	NNP
+간편결재	NNP
+스마트알림	NNP
+스마트 알림	NNP
+스마트결제	NNP
+스마트 결제	NNP
+업뎃	NNG
+한 눈	NNG
+한국씨티 NNP
+한국 씨티	NNP
+계속	MAG
+안	MAG
+왜	MAG
+한번에	MAG
+일시적	VA
+결재	NNG
+바이오로그인	NNP
+바이오 로그인	NNP
+바이오인증서	NNP
+바이오 인증서	NNP
+아주	MAG
+정말	MAG
+진짜	MAG
+무한정	NNG
+오류	NNG
+되	VX
+열	IC
+구뜨	IC
+쩔어	IC
+졸라	MAG
+구리	VA
+어플	NNG
+씨티은행	NNP
+시티은행	NNP
+씨티	NNP
+한국씨티은행	NNP
+한국시티	NNP
+한국시티은행	NNP
+카드번호	NNG
+한눈에 보기 불편	NNG
+한눈에 보기	NNG
+시티스마트	NNP
+간편결제	NNP
+스마트 간편결제	NNP
+스마트간편결제	NNP
+스마트 간편 결제	NNP
+씨티스마트간편결제	NNP
+간편 스마트 결제	NNP
+스마트뱅킹	NNP
+스마트앱 결제	NNP
+스마트 로그인	NNP
+업댓	NNG
+업대이트	NNG
+별 하나	NNG
+별하나	NNG
+별 하나도 아깝	VA
+별점 1점	NNG
+별점1점	NNG
+1점도 아깝	VA
+1점 주기도 아깝	VA
+별1개	NNG
+별 1개	NNG
+별 다섯개	NNG
+5점	NNG
+다섯개도 부족	VA
+5점도 부족	VA
+5점 주기엔	NNG
+5개 주기엔	NNG
+5점 주긴	NNG
+5개 주긴	NNG
+바이오 인증	NNP
+아니	VV
+아닌	VV
+자체	VA
+안되	VV
+안 되	VV
+안돼	VV
+안 돼	VV
+힘이 들	VA
+힘이 드	VA
+좀 그렇	VA
+주세	VV
+민증	NNG
+문닫	VV
+부탁 드립니	VV
+부탁드립니	VV
+부탁해	VV
+부탁 해	VV
+부탁 드려	VV
+부탁드려	VV
+이따구	NNG
+이따위	NNG
+이딴	VA
+한 큐	NNP
+한큐	NNP
+원큐	NNP
+원 큐	NNP
+비행기모드	NNG
+비행기 모드	NNG
+저전력모드	NNG
+저전력 모드	NNG
+알림 푸쉬	NNG
+알림푸쉬	NNG
+알림푸시	NNG
+알림 푸시	NNG
+푸시 알림	NNG
+알림푸시	NNG
+푸쉬 알림	NNG
+알림푸쉬	NNG
+로그아웃	NNG
+로그 아웃	NNG
+타임아웃	NNG
+타임 아웃	NNG
+해주	VV
+해 주	VV
+좋겠	VV
+장난이 아닙	VV
+장난이 아니	VV
+장난아니	VV
+장난 아니	VV
+장난치는것도아니	VA
+장난치는것도 아니	VA
+장난치는 것도 아니	VA
+장난 치는 것도 아니	VA
+장난하는 것도 아니	VA
+장난하는것도 아니	VA
+장난하시는것도아니	VA
+장난하는것도아니	VA
+한 방	NNG
+그지	NNG
+팝업	NNP
+버퍼링	NNP
+대박	MAG
+겁나	MAG
+콕	NNP
+콕 뱅크	NNP
+넘넘	MAG
+작작	MAG
+어마어마	MAG

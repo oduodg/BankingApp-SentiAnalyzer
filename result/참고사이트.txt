@@ -1,0 +1,8 @@
+[자연어 처리 패키지/라이브러리]
+https://ebbnflow.tistory.com/246
+https://freesoft.dev/program/153549454
+https://github.com/ssut/py-hanspell
+
+[플레이스토어 리뷰 크롤링]
+https://pypi.org/project/google-play-scraper/
+https://bettermesol.github.io/data/2020/07/31/crawling_google_play_store/
