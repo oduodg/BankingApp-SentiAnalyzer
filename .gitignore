@@ -3,3 +3,11 @@
 조별모임사진/
 최종 업로드/
 etc/
+code/리뷰데이터단문화(단문으로쪼개고_단문점수).py
+code/최종_긍부정_점수_계산.py
+code/특정_단어가_포함된_문장_살펴보기.py
+code/품사별_빈도수_살펴보기.py
+code/플레이스토어 크롤링.py
+code/한국시티최종점수산출및저장(리뷰점수).py
+result/.idea/
+result/NanumGothicCoding.ttf
